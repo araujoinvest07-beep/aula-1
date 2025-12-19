@@ -16,3 +16,6 @@ repositorio para armazenar resumos do git e github do cursoversionamento de cód
 ```
 git nit
 ```
+que coisa mais complicada |--- |---|
+🐱‍👤✔
+
