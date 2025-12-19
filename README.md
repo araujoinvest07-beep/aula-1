@@ -1,1 +1,18 @@
-# aula-1
+# aula-1# dio / resumo git github
+repositorio para armazenar resumos do git e github do cursoversionamento de código com git e github
+[digitial inovation one](https://www.dio.me/).
+ 
+ ## .👍documentacao
+ -  [documentacao git](https://git-scm.com/doc)
+
+ - [documentacao github](https://docs.github.com/)
+
+## 😎resumos da aula
+
+|aula |resumos|
+|------|-------|
+|gravando alteracoes no repositorio local.[resumo](lim=nk)|
+
+```
+git nit
+```
