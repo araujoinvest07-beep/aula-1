@@ -1,1 +1,51 @@
-aiaia cnjjkcjjcjvdvjvvkv
+Segue um resumo claro e direto sobre Git:
+
+O que é o Git
+Git é um sistema de controle de versão. Ele serve para registrar e organizar as mudanças feitas em arquivos, principalmente código, ao longo do tempo.
+
+Para que serve
+
+Guardar o histórico de alterações de um projeto
+
+Voltar para versões antigas se algo der errado
+
+Trabalhar em equipe sem sobrescrever o trabalho de outras pessoas
+
+Testar mudanças sem quebrar o projeto principal
+
+
+Como funciona (ideia simples)
+
+Você tem uma pasta do projeto no computador
+
+O Git “tira fotos” do projeto em momentos importantes
+
+Cada “foto” é chamada de commit
+
+
+Conceitos principais
+
+Repositório: pasta do projeto controlada pelo Git
+
+Commit: salvamento de uma versão do projeto
+
+Branch: linha paralela para testar mudanças
+
+Merge: juntar uma branch com a principal
+
+
+Git x GitHub
+
+Git: funciona no seu computador, controla versões
+
+GitHub: site para guardar projetos Git na internet e compartilhar
+
+
+Em uma frase
+
+> Git é uma ferramenta para salvar, organizar e controlar versões de um projeto com segurança.
+
+
+
+Se quiser, posso explicar isso como se fosse um caderno, um jogo, ou um passo a passo prático com comandos básicos.
+
