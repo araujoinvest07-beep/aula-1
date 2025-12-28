@@ -12,7 +12,7 @@ repositorio para armazenar resumos do git e github do cursoversionamento de cód
 |aula |resumos|
 |------|-------|
 |gravando alteracoes no repositorio local.[resumo](resumos/resumo-aula1.mr)|
-
+|resumo dos fundamentos da programacao .[aula2](resumos/resumo-aula-2.md)|
 ```
 git nit
 ```
