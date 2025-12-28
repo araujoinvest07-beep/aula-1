@@ -1,4 +1,4 @@
-# aula-1# dio / resumo git github
+# curso de bakend da  # dio / resumo git github
 repositorio para armazenar resumos do git e github do cursoversionamento de código com git e github
 [digitial inovation one](https://www.dio.me/).
  
