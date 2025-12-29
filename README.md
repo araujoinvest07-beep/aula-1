@@ -14,8 +14,30 @@ repositorio para armazenar resumos do git e github do cursoversionamento de cód
 |gravando alteracoes no repositorio local.[resumo](resumos/resumo-aula1.mr)|
 |resumo dos fundamentos da programacao .[aula2](resumos/resumo-aula-2.md)|
 ```
-git nit
-```
+# ⚡ – Git
+
+````
+git init
+
+
+git status
+
+git add .
+
+git commit -m "mensagem"
+
+git branch -M main
+
+
+git remote add origin URL
+
+git push -u origin main
+
+git pull
+
+git log --oneline
+````
+|--------------------------------|---------------------------------------------|----------------------------------------------------|
 que coisa mais complicada |--- |---|
 🐱‍👤✔
 
